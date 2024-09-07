@@ -1,12 +1,14 @@
 /////////////////////////////////////////////////////////////////////////////////////////////////
-Tutorial Rápido
-Na Página Inicial
+
+Tutorial Rápido:
+
+Na Página Inicial:
 Veja que há um campo onde você pode digitar palavras.
 
-Digite uma Palavra-chave
+Digite uma Palavra-chave:
 Por exemplo, se você digitar “Seguro”, aparecerão informações sobre investimentos sem risco. Se digitar “Variável”, aparecerão informações sobre investimentos com risco médio ou alto.
 
-Leia o Texto Abaixo
+Leia o Texto Abaixo:
 Abaixo do campo de pesquisa, você verá uma descrição de cada palavra-chave e o que esperar ao digitá-la.
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
